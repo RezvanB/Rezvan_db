@@ -1,0 +1,21 @@
+{
+  "name": "Reza Boostani - Product Manager & Technical Builder",
+  "short_name": "Reza Boostani",
+  "description": "Product Manager and Technical Builder specializing in EV charging and sustainable technology",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "/NEWLOGO.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/NEWLOGO.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+} 

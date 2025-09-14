@@ -1,0 +1,32 @@
+{
+  "buildCommand": "npm run build",
+  "outputDirectory": ".next",
+  "framework": "nextjs",
+  "headers": [
+    {
+      "source": "/reza-profile-2025-v2.jpg",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=0, must-revalidate"
+        }
+      ]
+    },
+    {
+      "source": "/(.*\\.jpg|.*\\.png|.*\\.jpeg|.*\\.gif|.*\\.webp)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=0, must-revalidate"
+        }
+      ]
+    }
+  ],
+  "redirects": [
+    {
+      "source": "/20250627_150331-.jpg",
+      "destination": "/reza-profile-2025.jpg",
+      "permanent": false
+    }
+  ]
+} 
