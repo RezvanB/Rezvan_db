@@ -1,7 +1,7 @@
 import { MetadataRoute } from 'next'
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://www.rezaboostani.com'
+  const baseUrl = 'https://www.rezvanboostani.com'
   const currentDate = new Date()
   
   return [
@@ -47,26 +47,10 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: 'monthly',
       priority: 0.8,
     },
+    
+
     {
-      url: `${baseUrl}/case-studies/watt-share`,
-      lastModified: currentDate,
-      changeFrequency: 'monthly',
-      priority: 0.7,
-    },
-    {
-      url: `${baseUrl}/case-studies/ivy-charging`,
-      lastModified: currentDate,
-      changeFrequency: 'monthly',
-      priority: 0.7,
-    },
-    {
-      url: `${baseUrl}/case-studies/thundervolt`,
-      lastModified: currentDate,
-      changeFrequency: 'monthly',
-      priority: 0.7,
-    },
-    {
-      url: `${baseUrl}/reza-boostani`,
+      url: `${baseUrl}/rezvan-boostani`,
       lastModified: currentDate,
       changeFrequency: 'monthly',
       priority: 0.9,

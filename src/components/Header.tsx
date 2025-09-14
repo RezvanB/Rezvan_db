@@ -11,7 +11,8 @@ export default function Header() {
   const router = useRouter();
   const isBlogPage = pathname?.startsWith('/blog');
   const isCaseStudyPage = pathname?.startsWith('/case-studies');
-  const isNotMainPage = isBlogPage || isCaseStudyPage;
+  const isProjectPage = pathname?.startsWith('/projects');
+  const isNotMainPage = isBlogPage || isCaseStudyPage || isProjectPage;
 
   const handleAIClick = () => {
     if (isNotMainPage) {
@@ -74,7 +75,7 @@ export default function Header() {
 
   return (
     <header className="fixed top-0 left-0 right-0 z-50 bg-white/80 backdrop-blur-md border-b border-gray-200">
-      <div className="max-w-7xl mx-auto px-2 sm:px-4 lg:px-8">
+      <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-14 sm:h-16">
           {/* Logo */}
           <div className="flex-shrink-0">
@@ -82,7 +83,7 @@ export default function Header() {
               href={isNotMainPage ? "/#home" : "#home"}
               className="text-lg sm:text-xl font-bold text-gray-900"
             >
-              Reza Boostani
+              Rezvan Boostani
             </Link>
           </div>
 
