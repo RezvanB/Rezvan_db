@@ -72,7 +72,7 @@ export default function LearningContentCreationPage() {
           <div className="mb-16">
             <h2 className="text-3xl font-bold text-gray-900 mb-6">Challenge</h2>
             <p className="text-lg text-gray-700 leading-relaxed mb-6">
-              This solution had several competitors internally (at Amazon) and externally (outside Amazon), and users have already been using various products. This project needed cross-org collaboration to enable the product to scale from the inception. We were independent for ingress points to the tool and for publishing to the learner's platform. This needed cross-org collaboration to ensure UX consistency.
+              This solution had several competitors internally (at Amazon) and externally (outside Amazon), and users have already been using various products. This project needed cross-org collaboration to enable the product to scale from the inception. We were independent for ingress points to the tool and for publishing to the learner&apos;s platform. This needed cross-org collaboration to ensure UX consistency.
             </p>
             
             <div className="bg-gray-100 rounded-xl p-8 mb-8">
@@ -167,7 +167,7 @@ export default function LearningContentCreationPage() {
           <div className="mb-16">
             <h2 className="text-3xl font-bold text-gray-900 mb-6">Research</h2>
             <p className="text-lg text-gray-700 leading-relaxed mb-8">
-              My goal with this round of research was to learn about our users' existing workflows and test early design concepts and identify areas of opportunity. I ran one-hour sessions with Learning Experience Designers to map out their existing journey, and asked their feedback on early design concepts.
+              My goal with this round of research was to learn about our users&apos; existing workflows and test early design concepts and identify areas of opportunity. I ran one-hour sessions with Learning Experience Designers to map out their existing journey, and asked their feedback on early design concepts.
             </p>
 
             <div className="bg-gray-100 rounded-xl p-8">
@@ -262,7 +262,7 @@ export default function LearningContentCreationPage() {
                 <div>
                   <h4 className="text-lg font-semibold text-gray-900 mb-3">Switcher and Contextual Side Panel</h4>
                   <p className="text-gray-700 mb-3">
-                    The end result of a learning content is an interactive experience with media, images, and a set of questions. Users find it frustrating when, for editing image settings and other media, they're directed to a separate view or a modal and need to go back and forth to see their edits.
+                    The end result of a learning content is an interactive experience with media, images, and a set of questions. Users find it frustrating when, for editing image settings and other media, they&apos;re directed to a separate view or a modal and need to go back and forth to see their edits.
                   </p>
                   <p className="text-gray-700">
                     To address this, I proposed a dynamic side panel switcher within the content editor. This switcher allows users to seamlessly transition between various functionalities—such as AI assistance, version history, and media editing—directly alongside their content. I aimed to enable users to edit and see the results within their learning experience by consolidating these functionalities into a single, contextual side panel.
