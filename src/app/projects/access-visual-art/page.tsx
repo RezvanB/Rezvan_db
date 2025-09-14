@@ -18,7 +18,7 @@ export default function AccessVisualArtPage() {
                   Access Visual Art (AVA)
                 </h1>
                 <p className="text-base sm:text-lg text-gray-600 leading-relaxed">
-                  Supporting users to access creative space through an online information resource about physical accessibility information of Ontario's art venues
+                  Supporting users to access creative space through an online information resource about physical accessibility information of Ontario&apos;s art venues
                 </p>
               </div>
               
@@ -80,7 +80,7 @@ export default function AccessVisualArtPage() {
                 <div>
                   <h3 className="text-xl font-semibold text-gray-900 mb-4">Responsibilities</h3>
                   <p className="text-gray-700">
-                    I ran focus groups, events, site audits and redesigned a survey. I reached out to art venues to expand the project's network. I synthesized data from both qualitative and quantitative research and created a digital database as well as early prototypes for the landing page and widget.
+                    I ran focus groups, events, site audits and redesigned a survey. I reached out to art venues to expand the project&apos;s network. I synthesized data from both qualitative and quantitative research and created a digital database as well as early prototypes for the landing page and widget.
                   </p>
                 </div>
               </div>
@@ -162,7 +162,7 @@ export default function AccessVisualArtPage() {
                 Our survey was sent out to 717 public and commercial galleries with detailed questions about their venue accessibility features. The survey was designed to determine how many art venues in Ontario have physical accessibility features and better understand capability of the art venues to become more accessible.
               </p>
               <p className="text-gray-700">
-                Surveys were completed by creative spaces' administrators and I created a database of the results. The database was a foundation for the online information platform.
+                Surveys were completed by creative spaces&apos; administrators and I created a database of the results. The database was a foundation for the online information platform.
               </p>
             </div>
           </div>
@@ -180,7 +180,7 @@ export default function AccessVisualArtPage() {
                 <h4 className="text-lg font-semibold text-gray-900 mb-2">Amy - Director</h4>
                 <p className="text-gray-700 text-sm mb-3">Wheelchair user</p>
                 <p className="text-gray-700 text-sm mb-3">
-                  "I need to go to events and panel discussions in different art galleries. However, I can't find information about the accessibility of the venues. I need to make calls to ask if these venues are accessible. Sometimes they say it is accessible, but I go there, and I can't get in."
+                  &quot;I need to go to events and panel discussions in different art galleries. However, I can&apos;t find information about the accessibility of the venues. I need to make calls to ask if these venues are accessible. Sometimes they say it is accessible, but I go there, and I can&apos;t get in.&quot;
                 </p>
               </div>
               <div className="bg-gray-100 rounded-xl p-6">
@@ -188,7 +188,7 @@ export default function AccessVisualArtPage() {
                 <h4 className="text-lg font-semibold text-gray-900 mb-2">Gerald - Student</h4>
                 <p className="text-gray-700 text-sm mb-3">Wheelchair user</p>
                 <p className="text-gray-700 text-sm mb-3">
-                  "I need to visit different art venues to complete my project and get inspiration. I usually search online to see if there is any information about venue accessibility. It is very frustrating when I go there and I can't enter the space, although the information on their website indicates that the venue is accessible."
+                  &quot;I need to visit different art venues to complete my project and get inspiration. I usually search online to see if there is any information about venue accessibility. It is very frustrating when I go there and I can&apos;t enter the space, although the information on their website indicates that the venue is accessible.&quot;
                 </p>
               </div>
               <div className="bg-gray-100 rounded-xl p-6">
@@ -196,7 +196,7 @@ export default function AccessVisualArtPage() {
                 <h4 className="text-lg font-semibold text-gray-900 mb-2">Sarah - Volunteer</h4>
                 <p className="text-gray-700 text-sm mb-3">Wheelchair user</p>
                 <p className="text-gray-700 text-sm mb-3">
-                  "As a wheelchair user I really like to work with venues to support them to be more accessible. It is frustrating that I can't find information on the level of accessibility of these venues to be able to work with them."
+                  &quot;As a wheelchair user I really like to work with venues to support them to be more accessible. It is frustrating that I can&apos;t find information on the level of accessibility of these venues to be able to work with them.&quot;
                 </p>
               </div>
             </div>
@@ -309,7 +309,7 @@ export default function AccessVisualArtPage() {
               <div className="space-y-4">
                 <div className="flex items-start gap-3">
                   <span className="w-6 h-6 bg-gray-600 text-white rounded-full flex items-center justify-center text-sm font-bold flex-shrink-0 mt-1">1</span>
-                  <span className="text-gray-700">Users can check the detail information about art venues on the widget and don't need to check venues' websites</span>
+                  <span className="text-gray-700">Users can check the detail information about art venues on the widget and don&apos;t need to check venues&apos; websites</span>
                 </div>
                 <div className="flex items-start gap-3">
                   <span className="w-6 h-6 bg-gray-600 text-white rounded-full flex items-center justify-center text-sm font-bold flex-shrink-0 mt-1">2</span>
@@ -364,10 +364,10 @@ export default function AccessVisualArtPage() {
             <div className="bg-gray-100 rounded-xl p-8">
               <h3 className="text-xl font-semibold text-gray-900 mb-4">Roll-A-Thon Event</h3>
               <p className="text-gray-700 mb-4">
-                I as AVA's outreach manager volunteered to work collaboratively with five other institution partners, including Art Spin, Tangled Art + Disability, Creative Users Projects, Akimbo Art Promotions, and Bodies in Translation to organize and plan a promotional event.
+                I as AVA&apos;s outreach manager volunteered to work collaboratively with five other institution partners, including Art Spin, Tangled Art + Disability, Creative Users Projects, Akimbo Art Promotions, and Bodies in Translation to organize and plan a promotional event.
               </p>
               <p className="text-gray-700">
-                Roll-A-Thon was the AVA's first event which guided tours for people using mobility devices. It took place in the "Holding patterns" exhibition of site-specific artworks in storage lockers at Planet Storage in Toronto. The exhibition is curated by Art spin.
+                Roll-A-Thon was the AVA&apos;s first event which guided tours for people using mobility devices. It took place in the &quot;Holding patterns&quot; exhibition of site-specific artworks in storage lockers at Planet Storage in Toronto. The exhibition is curated by Art spin.
               </p>
             </div>
           </div>

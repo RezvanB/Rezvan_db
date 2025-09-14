@@ -62,10 +62,10 @@ export default function VirtualPlatformIndigenousArtPage() {
           <div className="mb-16">
             <h2 className="text-3xl font-bold text-gray-900 mb-6">Introduction</h2>
             <p className="text-lg text-gray-700 leading-relaxed mb-6">
-              As part of my employment as a UX Designer at OCAD University I worked on the "Virtual Platform For Indigenous Art (VPIA)" project in the Wapatah Research Lab. This project aimed to create an online database to provide access to diverse museum collections of Indigenous artworks. Database Information covered over 2,000 objects from more than 90 institutions and museums around the world.
+              As part of my employment as a UX Designer at OCAD University I worked on the &quot;Virtual Platform For Indigenous Art (VPIA)&quot; project in the Wapatah Research Lab. This project aimed to create an online database to provide access to diverse museum collections of Indigenous artworks. Database Information covered over 2,000 objects from more than 90 institutions and museums around the world.
             </p>
             <p className="text-lg text-gray-700 leading-relaxed">
-              The design's goal is to empower communities and stakeholders to regain control over information on indigenous artworks.
+              The design&apos;s goal is to empower communities and stakeholders to regain control over information on indigenous artworks.
             </p>
           </div>
 
@@ -230,7 +230,7 @@ export default function VirtualPlatformIndigenousArtPage() {
                     <strong>Goals:</strong> Finish school projects, find all artworks in one platform, create artwork
                   </div>
                   <div>
-                    <strong>Frustrations:</strong> No/missing information, don't know where to search, takes time to go to different museum collections
+                    <strong>Frustrations:</strong> No/missing information, don&apos;t know where to search, takes time to go to different museum collections
                   </div>
                 </div>
               </div>
@@ -312,7 +312,7 @@ export default function VirtualPlatformIndigenousArtPage() {
             <div className="bg-gray-100 rounded-xl p-8">
               <h3 className="text-xl font-semibold text-gray-900 mb-4">Workshop at McCord Museum</h3>
               <p className="text-gray-700 mb-4">
-                To improve the existing museum records and to explore how indigenous knowledge can inform indigenous artworks' description, VPIA team ran a collaborative workshop with Indigenous-led organization La Boite Rouge VIF. VPIA principal investigator, user experience design team, and researchers worked with Plains Cree scholar Eric Tootoosis on the McCord Museum indigenous artwork collections.
+                To improve the existing museum records and to explore how indigenous knowledge can inform indigenous artworks&apos; description, VPIA team ran a collaborative workshop with Indigenous-led organization La Boite Rouge VIF. VPIA principal investigator, user experience design team, and researchers worked with Plains Cree scholar Eric Tootoosis on the McCord Museum indigenous artwork collections.
               </p>
               <div className="space-y-4">
                 <div>
@@ -363,7 +363,7 @@ export default function VirtualPlatformIndigenousArtPage() {
           <div className="mb-16">
             <h2 className="text-3xl font-bold text-gray-900 mb-6">Information Architecture</h2>
             <p className="text-lg text-gray-700 leading-relaxed mb-8">
-              First co-design session ideas and secondary research informed the initial content inventory and information architecture prototypes for the platform. It was based on the users' expectations and features defined as the main solution to support users and partners to meet their needs.
+              First co-design session ideas and secondary research informed the initial content inventory and information architecture prototypes for the platform. It was based on the users&apos; expectations and features defined as the main solution to support users and partners to meet their needs.
             </p>
 
             <div className="bg-gray-100 rounded-xl p-8">
@@ -411,7 +411,7 @@ export default function VirtualPlatformIndigenousArtPage() {
             <div className="bg-gray-100 rounded-xl p-8">
               <h3 className="text-xl font-semibold text-gray-900 mb-4">Usability Testing</h3>
               <p className="text-gray-700 mb-4">
-                I ran 8 remote moderated usability test sessions in three different phases of the design to identify problems, learn about main user groups' preferences and to see if there are opportunities to improve the platform.
+                I ran 8 remote moderated usability test sessions in three different phases of the design to identify problems, learn about main user groups&apos; preferences and to see if there are opportunities to improve the platform.
               </p>
               <p className="text-gray-700 mb-4">
                 In these sessions I engaged 2 artists, 1 curator, 2 scholars, 2 community members and an accessibility specialist.
@@ -430,7 +430,7 @@ export default function VirtualPlatformIndigenousArtPage() {
                   <ul className="space-y-2 text-gray-700">
                     <li>• Give users reason upfront why they need to sign up to the platform</li>
                     <li>• Ensure keyboard compatibility for all the actions of the platform to be accessible to users who do not use a mouse</li>
-                    <li>• Change wording "details" on an artwork article page to something more specific like history/historical context</li>
+                    <li>• Change wording &quot;details&quot; on an artwork article page to something more specific like history/historical context</li>
                     <li>• Use edit icon at each section of the text on an artwork article page to be easily discoverable</li>
                   </ul>
                 </div>

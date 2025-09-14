@@ -14,11 +14,8 @@ const openai = new OpenAI({ apiKey: OPEN_AI_API_KEY })
 
 const PortfolioData = [
 
-    'https://www.rezaboostani.com/',
-    'https://www.rezaboostani.com/blog/1/',
-    'https://www.rezaboostani.com/blog/2/',
-    'https://www.rezaboostani.com/blog/3/',
-    'https://docs.google.com/document/d/1Y196oxLMgcsfXqYJTdSuCAUIl7HkX30hyZtEu4ZMVKs/edit?usp=sharing'
+    'https://docs.google.com/document/d/1GP0lx7bY6ZHNeoE9hn6pU8PPYx67hh2bW-sB1sppvJ8/edit?tab=t.0',
+
 ]
 
 const client = new DataAPIClient(ASTRA_DB_APPLICATION_TOKEN!)

@@ -13,10 +13,10 @@ export default function AboutSection() {
         <div className="grid md:grid-cols-2 gap-8 sm:gap-12 items-center">
           <div className="space-y-4 sm:space-y-6">
             <p className="leading-relaxed text-sm sm:text-base lg:text-lg">
-              Hi, I'm Rezvan.
+              Hi, I&apos;m Rezvan.
             </p>
             <p className="leading-relaxed text-sm sm:text-base lg:text-lg">
-              I'm a UX design and strategy lead at Amazon talent management and development technology, leading design initiatives related to AI experiences.
+              I&apos;m a UX design and strategy lead at Amazon talent management and development technology, leading design initiatives related to AI experiences.
             </p>
             <p className="leading-relaxed text-sm sm:text-base lg:text-lg">
               I develop cross-organizational goals and strategies, lead projects from concept to execution, and deliver impactful solutions for complex, ambiguous problems.

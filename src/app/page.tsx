@@ -1,14 +1,10 @@
 "use client";
 
-import Image from "next/image";
 import Header from "@/components/Header";
-import HeroSection from "@/components/HeroSection";
 import AboutSection from "@/components/AboutSection";
 import AISection from "@/components/AISection";
-import EducationSection from "@/components/EducationSection";
 import WorkSection from "@/components/WorkSection";
 import BookingSection from "@/components/BookingSection";
-import ToolsSection from "@/components/ToolsSection";
 import ContactSection from "@/components/ContactSection";
 import Footer from "@/components/Footer";
 import AnalyticsDashboard from "@/components/AnalyticsDashboard";

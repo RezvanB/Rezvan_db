@@ -12,31 +12,31 @@ export default function WorkSection() {
       id: "learning-content-creation",
       title: "Learning Content Creation with Gen AI",
       subtitle: "Empowering learning content creators to develop quality and consistent content",
-      image: "/pexels-thisisengineering-3861442.jpg"
+      image: "/WorkSection-Imager/Frame 1321318963.png"
     },
     {
       id: "technology-help-experience",
       title: "Technology Help Experience",
       subtitle: "Supporting employees to access technology tools and services",
-      image: "/pexels-hyundaimotorgroup-30658213.jpg"
+      image: "/WorkSection-Imager/Frame 1321318964.png"
     },
     {
       id: "virtual-platform-indigenous-art",
       title: "Virtual Platform for Indigenous Art",
       subtitle: "Supporting communities to access artwork directories and wiki platforms with a focus on Indigenous artworks worldwide",
-      image: "/pexels-jakubzerdzicki-28851165(1).jpg"
+      image: "/WorkSection-Imager/Frame 1321318965.png"
     },
     {
       id: "access-visual-art",
       title: "Access Visual Art",
       subtitle: "Supporting users to access creative space through an online information resource about physical accessibility information of Ontario's art venues",
-      image: "/pexels-exnl-931887.jpg"
+      image: "/WorkSection-Imager/Frame 1321318966.png"
     },
     {
       id: "streamlining-transition",
       title: "Streamlining Transition",
       subtitle: "Supporting stroke patients through service design intervention to improve the transition experience from hospital to home",
-      image: "/pexels-cottonbro-6804077.jpg"
+      image: "/WorkSection-Imager/Frame 1321318968.png"
     }
   ];
 
@@ -53,7 +53,7 @@ export default function WorkSection() {
         </div>
         
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 lg:gap-8">
-          {projects.map((project, index) => (
+          {projects.map((project) => (
             <Link
               key={project.id}
               href={`/projects/${project.id}`}

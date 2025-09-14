@@ -62,13 +62,13 @@ export default function TechnologyHelpExperiencePage() {
           <div className="mb-16">
             <h2 className="text-3xl font-bold text-gray-900 mb-6">Introduction</h2>
             <p className="text-lg text-gray-700 leading-relaxed mb-6">
-              The project's main goal was to address employees' technology-related issues/needs in a timely manner digitally to reduce call volume and create better employee experiences.
+              The project&apos;s main goal was to address employees&apos; technology-related issues/needs in a timely manner digitally to reduce call volume and create better employee experiences.
             </p>
             <p className="text-lg text-gray-700 leading-relaxed mb-6">
-              The pandemic has resulted in a vast majority of Scotiabank's workforce having to work from home (WFH), with the possibility that many may continue this working scenario into the future. Prior to the pandemic, employees would heavily rely on peer support, their managers, or IT professionals and/or would go to a physical help desk.
+              The pandemic has resulted in a vast majority of Scotiabank&apos;s workforce having to work from home (WFH), with the possibility that many may continue this working scenario into the future. Prior to the pandemic, employees would heavily rely on peer support, their managers, or IT professionals and/or would go to a physical help desk.
             </p>
             <p className="text-lg text-gray-700 leading-relaxed">
-              Now, within this new working environment, employees are more reliant on technology functioning properly. Employees become anxious and stressed if they can't simply connect to the Scotiabank ecosystem, and they view this work disruption as urgent.
+              Now, within this new working environment, employees are more reliant on technology functioning properly. Employees become anxious and stressed if they can&apos;t simply connect to the Scotiabank ecosystem, and they view this work disruption as urgent.
             </p>
           </div>
 
@@ -76,7 +76,7 @@ export default function TechnologyHelpExperiencePage() {
           <div className="mb-16">
             <h2 className="text-3xl font-bold text-gray-900 mb-6">Challenge</h2>
             <p className="text-lg text-gray-700 leading-relaxed mb-6">
-              This, across the entire bank, has resulted in a high volume of calls, which has then resulted in the IT help having to reduce their attention to each issue, deflecting the service to others, or sometimes sending the issue back to the user. This results in further disruption to the user's work, operational waste, cost displacement across working groups, frustration, and users not knowing what to do.
+              This, across the entire bank, has resulted in a high volume of calls, which has then resulted in the IT help having to reduce their attention to each issue, deflecting the service to others, or sometimes sending the issue back to the user. This results in further disruption to the user&apos;s work, operational waste, cost displacement across working groups, frustration, and users not knowing what to do.
             </p>
             
             <div className="bg-gray-100 rounded-xl p-8">
@@ -108,7 +108,7 @@ export default function TechnologyHelpExperiencePage() {
             <div className="bg-gray-100 rounded-xl p-8 mb-8">
               <h3 className="text-xl font-semibold text-gray-900 mb-4">Current Experience Audit</h3>
               <p className="text-gray-700 mb-4">
-                I reviewed the research done and explored the platform's current state. I also looked at the task completion rate for the main tasks and page visits and time.
+                I reviewed the research done and explored the platform&apos;s current state. I also looked at the task completion rate for the main tasks and page visits and time.
               </p>
               <div className="space-y-4">
                 <div className="flex items-start gap-3">
@@ -211,7 +211,7 @@ export default function TechnologyHelpExperiencePage() {
                   <div className="flex items-start gap-3">
                     <span className="w-6 h-6 bg-gray-600 text-white rounded-full flex items-center justify-center text-sm font-bold flex-shrink-0 mt-1">6</span>
                     <div>
-                      <h4 className="font-semibold text-gray-900 mb-1">All issues perceived as 'urgent'</h4>
+                      <h4 className="font-semibold text-gray-900 mb-1">All issues perceived as &apos;urgent&apos;</h4>
                       <p className="text-sm text-gray-700">Users consistently felt, no matter what type of issue they had, that it was urgent and it needed to be handled immediately.</p>
                     </div>
                   </div>
@@ -254,7 +254,7 @@ export default function TechnologyHelpExperiencePage() {
                 Based on the users feedback categories were standardized. There were also some categories that needed more clarification. Examples: Account setup (What type of account?), Account troubleshooting (What type of account?), Password-related documentation (What type of password?), How to fill out forms (what type of forms?).
               </p>
               <p className="text-gray-700">
-                Add action verbs to the categories. Action verbs add more clarity about each category's content. Examples: Request Applications rather than Applications. Request a mobile device rather than a mobile device.
+                Add action verbs to the categories. Action verbs add more clarity about each category&apos;s content. Examples: Request Applications rather than Applications. Request a mobile device rather than a mobile device.
               </p>
             </div>
           </div>
@@ -292,7 +292,7 @@ export default function TechnologyHelpExperiencePage() {
                 </li>
                 <li className="flex items-start gap-3">
                   <span className="w-2 h-2 bg-gray-600 rounded-full mt-2 flex-shrink-0"></span>
-                  <span className="text-gray-700"><strong>Inclusion:</strong> There were some character illustrations for the branding that implied stereotypes. While these characters were tested before in today's context were problematic. I consulted banks digital branding and marketing to see what resources they have and can share with IT Help team.</span>
+                  <span className="text-gray-700"><strong>Inclusion:</strong> There were some character illustrations for the branding that implied stereotypes. While these characters were tested before in today&apos;s context were problematic. I consulted banks digital branding and marketing to see what resources they have and can share with IT Help team.</span>
                 </li>
               </ul>
             </div>
@@ -353,7 +353,7 @@ export default function TechnologyHelpExperiencePage() {
                 I iterated and refined the designs to include mostly asked questions on the landing page and allow for adding notes and messages after the ticket is submitted in case the user needs changes.
               </p>
               <p className="text-sm text-gray-600 mt-4 italic">
-                Note: All design mocks included are conceptual. Since the tool was not open to the public, I'm not using any of the final proposed designs.
+                Note: All design mocks included are conceptual. Since the tool was not open to the public, I&apos;m not using any of the final proposed designs.
               </p>
             </div>
           </div>

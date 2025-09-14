@@ -62,7 +62,7 @@ export default function StreamliningTransitionPage() {
           <div className="mb-16">
             <h2 className="text-3xl font-bold text-gray-900 mb-6">Introduction</h2>
             <p className="text-lg text-gray-700 leading-relaxed mb-6">
-              As part of my master's degree at OCAD University I worked as a design researcher with the Bridgepoint Active Rehabilitation Hospital. The focus of this internship was to improve current hospital services for stroke patients in transition care to support them in having a successful discharge. I was working with four other design research interns and scientific researchers at the Hospital.
+              As part of my master&apos;s degree at OCAD University I worked as a design researcher with the Bridgepoint Active Rehabilitation Hospital. The focus of this internship was to improve current hospital services for stroke patients in transition care to support them in having a successful discharge. I was working with four other design research interns and scientific researchers at the Hospital.
             </p>
             <div className="bg-gray-100 rounded-xl p-8">
               <div className="grid md:grid-cols-2 gap-6">
@@ -274,7 +274,7 @@ export default function StreamliningTransitionPage() {
                 In this session we engaged healthcare providers, family of patients with complex conditions, volunteers, administrators, and researchers. Activities were designed to introduce the project, validate the gathered data to date, gather additional data, ideate, prototype, and test.
               </p>
               <p className="text-gray-700 mb-4">
-                Activities include validating stakeholders' needs, painpoints, goals as well as mind mapping, ideation, prototyping, and testing.
+                Activities include validating stakeholders&apos; needs, painpoints, goals as well as mind mapping, ideation, prototyping, and testing.
               </p>
               <div className="space-y-4">
                 <div>
@@ -301,7 +301,7 @@ export default function StreamliningTransitionPage() {
           <div className="mb-16">
             <h2 className="text-3xl font-bold text-gray-900 mb-6">Experimentation</h2>
             <p className="text-lg text-gray-700 leading-relaxed mb-8">
-              The gathered data throughout the research was translated to the Bridgepoint's current service blueprint. This blueprint illustrates the structure of the service delivery at the Bridgepoint including the relationship of different stakeholders and components relevant to a certain touchpoint.
+              The gathered data throughout the research was translated to the Bridgepoint&apos;s current service blueprint. This blueprint illustrates the structure of the service delivery at the Bridgepoint including the relationship of different stakeholders and components relevant to a certain touchpoint.
             </p>
 
             <div className="bg-gray-100 rounded-xl p-8 mb-8">
@@ -357,7 +357,7 @@ export default function StreamliningTransitionPage() {
             <div className="bg-gray-100 rounded-xl p-8 mb-8">
               <h3 className="text-xl font-semibold text-gray-900 mb-4">Service Design - Continuum of Care</h3>
               <p className="text-gray-700 mb-4">
-                We picked one of our personas to introduce the service design and show how this service design makes his transition smooth through storytelling to Bridgepoint Rehabilitation Hospital executive board. Since the beginning, we found importance of meeting of triad's (patient, caregiver/ family, and healthcare provider) needs.
+                We picked one of our personas to introduce the service design and show how this service design makes his transition smooth through storytelling to Bridgepoint Rehabilitation Hospital executive board. Since the beginning, we found importance of meeting of triad&apos;s (patient, caregiver/ family, and healthcare provider) needs.
               </p>
               <p className="text-gray-700 mb-4">
                 Our service design intervention proposes a triad-centred transitional plan: patient, caregiver, and healthcare provider. Elements of this streamlined service include:
@@ -388,7 +388,7 @@ export default function StreamliningTransitionPage() {
               <ul className="space-y-3">
                 <li className="flex items-start gap-3">
                   <span className="w-2 h-2 bg-gray-600 rounded-full mt-2 flex-shrink-0"></span>
-                  <span className="text-gray-700">Presented the "Continuum of Care" streamlined transition service design to the executive board at Bridgepoint Rehabilitation Hospital & OCAD University Design for Health Program director and instructors</span>
+                  <span className="text-gray-700">Presented the &quot;Continuum of Care&quot; streamlined transition service design to the executive board at Bridgepoint Rehabilitation Hospital & OCAD University Design for Health Program director and instructors</span>
                 </li>
                 <li className="flex items-start gap-3">
                   <span className="w-2 h-2 bg-gray-600 rounded-full mt-2 flex-shrink-0"></span>
@@ -400,11 +400,11 @@ export default function StreamliningTransitionPage() {
                 </li>
                 <li className="flex items-start gap-3">
                   <span className="w-2 h-2 bg-gray-600 rounded-full mt-2 flex-shrink-0"></span>
-                  <span className="text-gray-700">I presented a poster of the project at GTA Rehab Network Best Practices Day 2019 and I won 3rd place of the People's Choice Awards</span>
+                  <span className="text-gray-700">I presented a poster of the project at GTA Rehab Network Best Practices Day 2019 and I won 3rd place of the People&apos;s Choice Awards</span>
                 </li>
                 <li className="flex items-start gap-3">
                   <span className="w-2 h-2 bg-gray-600 rounded-full mt-2 flex-shrink-0"></span>
-                  <span className="text-gray-700">I also presented the project at Cahspr Conference 2019 in an oral session on the "Cancer, Chronic Disease Management"</span>
+                  <span className="text-gray-700">I also presented the project at Cahspr Conference 2019 in an oral session on the &quot;Cancer, Chronic Disease Management&quot;</span>
                 </li>
               </ul>
             </div>
@@ -431,10 +431,10 @@ export default function StreamliningTransitionPage() {
                 We used horizon map to communicate how the proposed design interventions can take place in the years ahead.
               </p>
               <p className="text-gray-700 mb-4">
-                The streamlined transition service from the rehabilitation hospital back to the home communities can be implemented by further including the patients' and caregivers' inputs within the proposed plan.
+                The streamlined transition service from the rehabilitation hospital back to the home communities can be implemented by further including the patients&apos; and caregivers&apos; inputs within the proposed plan.
               </p>
               <p className="text-gray-700">
-                To move forward with the proposed design interventions, it is beneficial to test it through a pilot practice to ensure it is inclusive of all stakeholder groups' perspectives.
+                To move forward with the proposed design interventions, it is beneficial to test it through a pilot practice to ensure it is inclusive of all stakeholder groups&apos; perspectives.
               </p>
             </div>
           </div>
